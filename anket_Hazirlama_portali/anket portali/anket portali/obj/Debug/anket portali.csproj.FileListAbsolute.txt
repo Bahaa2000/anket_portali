@@ -1,0 +1,48 @@
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\ApplicationInsights.config
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\csc.exe
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\System.Collections.Immutable.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\System.Reflection.Metadata.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\vbc.exe
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\VBCSCompiler.exe
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\roslyn\VBCSCompiler.exe.config
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\anket portali.dll.config
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\anket portali.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\anket portali.pdb
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\EntityFramework.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\EntityFramework.SqlServer.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.Agent.Intercept.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.DependencyCollector.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.Web.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.WindowsServer.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.ApplicationInsights.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Newtonsoft.Json.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\System.Net.Http.Formatting.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\System.Web.Http.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\System.Web.Http.WebHost.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\EntityFramework.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\EntityFramework.SqlServer.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.DependencyCollector.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.Web.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.AI.WindowsServer.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.ApplicationInsights.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Newtonsoft.Json.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\System.Net.Http.Formatting.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\System.Web.Http.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\System.Web.Http.WebHost.xml
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\obj\Debug\anket portali.csprojResolveAssemblyReference.cache
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\obj\Debug\anket portali.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\obj\Debug\anket portali.pdb
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Microsoft.Web.Infrastructure.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\Swashbuckle.Core.dll
+D:\İnternet Programcılığı 2\Anket Hazırlama Portalı\anket portali\anket portali\bin\WebActivatorEx.dll
